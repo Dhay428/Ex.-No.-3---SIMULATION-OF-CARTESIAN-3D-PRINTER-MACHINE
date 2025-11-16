@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 16 / 11 / 2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1034" height="584" alt="image" src="https://github.com/user-attachments/assets/abfd1158-99db-4c2d-8947-72035a458bf9" />
+
+### Name: S.DHAYALAPRABU
+### Register Number:212224230065
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
